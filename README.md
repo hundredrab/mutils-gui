@@ -1,2 +1,2 @@
 # mutils-gui
-Cross-platform application wrapping [musicutils](github.com/hundredrab/musicutils).
+Cross-platform application wrapping [musicutils](https://www.github.com/hundredrab/musicutils).
